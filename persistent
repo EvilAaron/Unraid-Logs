@@ -2955,3 +2955,1302 @@ Sep 11 06:07:05 REMOTE root: /mnt/cache: 782.3 GiB (840039071744 bytes) trimmed 
 Sep 11 06:07:07 REMOTE root: /var/lib/docker: 16.3 GiB (17515716608 bytes) trimmed on /dev/loop2
 Sep 11 06:07:08 REMOTE root: /var/lib/docker/btrfs: 15.3 GiB (16383827968 bytes) trimmed on /dev/loop2[/btrfs]
 Sep 11 06:07:08 REMOTE root: /etc/libvirt: 920.6 MiB (965316608 bytes) trimmed on /dev/loop3
+Sep 11 18:11:21 REMOTE webgui: Successful login user root from 192.168.1.60
+Sep 11 18:29:16 REMOTE monitor_nchan: Stop running nchan processes
+Sep 12 01:15:01 REMOTE Plugin Auto Update: Checking for available plugin updates
+Sep 12 01:15:09 REMOTE Plugin Auto Update: dynamix.unraid.net.plg version 2025.09.10.1921 does not meet age requirements to update - 2 days old
+Sep 12 01:15:10 REMOTE Plugin Auto Update: Checking for language updates
+Sep 12 01:15:10 REMOTE Plugin Auto Update: Community Applications Plugin Auto Update finished
+Sep 12 01:30:01 REMOTE Docker Auto Update: Community Applications Docker Autoupdate running
+Sep 12 01:30:01 REMOTE Docker Auto Update: Checking for available updates
+Sep 12 01:30:10 REMOTE Docker Auto Update: No updates will be installed
+Sep 12 06:03:58 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000007c5076ae), outstanding for 60437 ms & timeout 60000 ms
+Sep 12 06:03:58 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2816 CDB: opcode=0x35 35 00 00 00 00 00 00 00 00 00
+Sep 12 06:03:58 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:03:58 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:03:59 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000007c5076ae)
+Sep 12 06:03:59 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:04:00 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:04:29 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000611590b7), outstanding for 30094 ms & timeout 30000 ms
+Sep 12 06:04:29 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2819 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:04:29 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:04:29 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000611590b7)
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000000b2e0bf), outstanding for 30128 ms & timeout 30000 ms
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2876 CDB: opcode=0x88 88 00 00 00 00 07 58 d1 45 70 00 00 04 00 00 00
+Sep 12 06:04:30 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:04:30 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x0000000000b2e0bf) might have completed
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000000b2e0bf)
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000009e627235), outstanding for 30128 ms & timeout 30000 ms
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2875 CDB: opcode=0x88 88 00 00 00 00 07 58 d1 41 70 00 00 04 00 00 00
+Sep 12 06:04:30 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:04:30 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x000000009e627235) might have completed
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000009e627235)
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:04:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:04:37 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000011988313), outstanding for 7045 ms & timeout 7000 ms
+Sep 12 06:04:37 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2819 CDB: opcode=0x12 12 01 00 00 fe 00
+Sep 12 06:04:37 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:04:37 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:04:38 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000011988313)
+Sep 12 06:04:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:04:39 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:05:15 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000079143b82), outstanding for 30152 ms & timeout 30000 ms
+Sep 12 06:05:15 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2839 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:05:15 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:05:15 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:05:15 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000079143b82)
+Sep 12 06:05:15 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:05:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:05:22 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c72675cb), outstanding for 7029 ms & timeout 7000 ms
+Sep 12 06:05:22 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2848 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:05:22 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:05:22 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:05:22 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c72675cb)
+Sep 12 06:05:22 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:05:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:05:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000057a8ac4f), outstanding for 30322 ms & timeout 30000 ms
+Sep 12 06:05:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2822 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:05:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:05:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:05:54 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000057a8ac4f)
+Sep 12 06:05:54 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:05:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:06:01 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000003fd1c26a), outstanding for 7045 ms & timeout 7000 ms
+Sep 12 06:06:01 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2822 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:06:01 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:06:01 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:06:01 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000003fd1c26a)
+Sep 12 06:06:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:06:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:06:31 REMOTE kernel: sd 1:0:0:0: attempting task abort!scmd(0x000000009d9289d2), outstanding for 30274 ms & timeout 30000 ms
+Sep 12 06:06:31 REMOTE kernel: sd 1:0:0:0: [sdb] tag#2824 CDB: opcode=0x42 42 00 00 00 00 00 00 00 18 00
+Sep 12 06:06:31 REMOTE kernel: scsi target1:0:0: handle(0x000b), sas_address(0x4433221107000000), phy(7)
+Sep 12 06:06:31 REMOTE kernel: scsi target1:0:0: enclosure logical id(0x500605b0054c55f0), slot(0) 
+Sep 12 06:06:32 REMOTE kernel: sd 1:0:0:0: task abort: SUCCESS scmd(0x000000009d9289d2)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: mpt2sas_cm0: log_info(0x31110e00): originator(PL), code(0x11), sub_code(0x0e00)
+Sep 12 06:06:32 REMOTE kernel: sd 1:0:0:0: Power-on or device reset occurred
+Sep 12 06:06:33 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000593366d4), outstanding for 30069 ms & timeout 30000 ms
+Sep 12 06:06:33 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2832 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:06:33 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:06:33 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:06:33 REMOTE kernel: sd 1:0:0:0: Power-on or device reset occurred
+Sep 12 06:06:33 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000593366d4)
+Sep 12 06:06:33 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:06:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:06:40 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000b55b8050), outstanding for 7034 ms & timeout 7000 ms
+Sep 12 06:06:40 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2821 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:06:40 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:06:40 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:06:40 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000b55b8050)
+Sep 12 06:06:40 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:06:41 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:11 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a951022e), outstanding for 30247 ms & timeout 30000 ms
+Sep 12 06:07:11 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2859 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:07:11 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:07:11 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:07:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a951022e)
+Sep 12 06:07:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:19 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d556e8ce), outstanding for 7035 ms & timeout 7000 ms
+Sep 12 06:07:19 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2855 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:07:19 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:07:19 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:07:19 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d556e8ce)
+Sep 12 06:07:19 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:20 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:50 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f8351a6), outstanding for 30312 ms & timeout 30000 ms
+Sep 12 06:07:50 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2879 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:07:50 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:07:50 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:07:51 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f8351a6)
+Sep 12 06:07:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:58 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000321f462b), outstanding for 7029 ms & timeout 7000 ms
+Sep 12 06:07:58 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2826 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:07:58 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:07:58 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:07:58 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000321f462b)
+Sep 12 06:07:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:07:59 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:08:29 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a5fcd735), outstanding for 30309 ms & timeout 30000 ms
+Sep 12 06:08:29 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2830 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:08:29 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:08:29 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:08:29 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a5fcd735)
+Sep 12 06:08:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:08:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:08:37 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000321f462b), outstanding for 7033 ms & timeout 7000 ms
+Sep 12 06:08:37 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2873 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:08:37 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:08:37 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:08:37 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000321f462b)
+Sep 12 06:08:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:08:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:04 REMOTE root: /mnt/cache: 64.5 GiB (69295087616 bytes) trimmed on /dev/sdb1
+Sep 12 06:09:04 REMOTE root: /var/lib/docker: 15.2 GiB (16305369088 bytes) trimmed on /dev/loop2
+Sep 12 06:09:05 REMOTE root: /var/lib/docker/btrfs: 15.2 GiB (16305369088 bytes) trimmed on /dev/loop2[/btrfs]
+Sep 12 06:09:05 REMOTE root: /etc/libvirt: 24 MiB (25137152 bytes) trimmed on /dev/loop3
+Sep 12 06:09:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000321f462b), outstanding for 30306 ms & timeout 30000 ms
+Sep 12 06:09:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2838 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:09:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:09:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:09:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000321f462b)
+Sep 12 06:09:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:15 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f9d976c), outstanding for 7031 ms & timeout 7000 ms
+Sep 12 06:09:15 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2833 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:09:15 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:09:15 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:09:16 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f9d976c)
+Sep 12 06:09:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f95772b), outstanding for 30308 ms & timeout 30000 ms
+Sep 12 06:09:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2861 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:09:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:09:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:09:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f95772b)
+Sep 12 06:09:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000034fe38b8), outstanding for 7028 ms & timeout 7000 ms
+Sep 12 06:09:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2828 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:09:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:09:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:09:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000034fe38b8)
+Sep 12 06:09:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:09:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:10:26 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000b14b4590), outstanding for 30313 ms & timeout 30000 ms
+Sep 12 06:10:26 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2838 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:10:26 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:10:26 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:10:26 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000b14b4590)
+Sep 12 06:10:26 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:10:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:10:33 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000037a91c3d), outstanding for 7029 ms & timeout 7000 ms
+Sep 12 06:10:33 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2841 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:10:33 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:10:33 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:10:34 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000037a91c3d)
+Sep 12 06:10:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:10:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:05 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a42fc915), outstanding for 30311 ms & timeout 30000 ms
+Sep 12 06:11:05 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2863 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:11:05 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:11:05 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:11:05 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a42fc915)
+Sep 12 06:11:05 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:06 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000593366d4), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 06:11:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2865 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:11:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:11:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:11:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000593366d4)
+Sep 12 06:11:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:13 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:44 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ed4de511), outstanding for 30309 ms & timeout 30000 ms
+Sep 12 06:11:44 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2835 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:11:44 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:11:44 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:11:44 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ed4de511)
+Sep 12 06:11:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:45 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:51 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d2e6dd73), outstanding for 7031 ms & timeout 7000 ms
+Sep 12 06:11:51 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2822 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:11:51 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:11:51 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:11:51 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d2e6dd73)
+Sep 12 06:11:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:11:52 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:12:23 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000090f4e38b), outstanding for 30312 ms & timeout 30000 ms
+Sep 12 06:12:23 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2820 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:12:23 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:12:23 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:12:23 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000090f4e38b)
+Sep 12 06:12:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:12:24 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:12:30 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fdb3671e), outstanding for 7031 ms & timeout 7000 ms
+Sep 12 06:12:30 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2836 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:12:30 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:12:30 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:12:30 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fdb3671e)
+Sep 12 06:12:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:12:31 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:13:02 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000011988313), outstanding for 30308 ms & timeout 30000 ms
+Sep 12 06:13:02 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2823 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:13:02 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:13:02 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:13:02 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000011988313)
+Sep 12 06:13:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:13:03 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:13:09 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000000ec5282), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 06:13:09 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2859 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:13:09 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:13:09 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:13:09 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000000ec5282)
+Sep 12 06:13:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:13:10 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:01 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fdb3671e), outstanding for 30018 ms & timeout 30000 ms
+Sep 12 06:14:01 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2831 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:14:01 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:14:01 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:14:01 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fdb3671e)
+Sep 12 06:14:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000b69d68c4), outstanding for 7034 ms & timeout 7000 ms
+Sep 12 06:14:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2828 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:14:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:14:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:14:09 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000b69d68c4)
+Sep 12 06:14:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:40 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d0fa4592), outstanding for 30022 ms & timeout 30000 ms
+Sep 12 06:14:40 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2852 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:14:40 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:14:40 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:14:40 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d0fa4592)
+Sep 12 06:14:40 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:41 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000000ec5282), outstanding for 7059 ms & timeout 7000 ms
+Sep 12 06:14:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2859 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:14:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:14:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:14:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000000ec5282)
+Sep 12 06:14:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:14:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:15:18 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d491fd33), outstanding for 30052 ms & timeout 30000 ms
+Sep 12 06:15:18 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2830 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:15:18 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:15:18 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:15:19 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d491fd33)
+Sep 12 06:15:19 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:15:19 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:15:26 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f2ec2257), outstanding for 7030 ms & timeout 7000 ms
+Sep 12 06:15:26 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2843 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:15:26 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:15:26 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:15:26 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f2ec2257)
+Sep 12 06:15:26 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:15:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:15:57 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c9885b6e), outstanding for 30023 ms & timeout 30000 ms
+Sep 12 06:15:57 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2864 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:15:57 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:15:57 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:15:57 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c9885b6e)
+Sep 12 06:15:57 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:15:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:16:04 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000004fb7f35b), outstanding for 7050 ms & timeout 7000 ms
+Sep 12 06:16:04 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2836 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:16:04 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:16:04 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:16:05 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000004fb7f35b)
+Sep 12 06:16:05 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:16:05 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:16:36 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000091815a31), outstanding for 30059 ms & timeout 30000 ms
+Sep 12 06:16:36 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2874 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:16:36 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:16:36 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:16:36 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000091815a31)
+Sep 12 06:16:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:16:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:16:43 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000011d378bb), outstanding for 7026 ms & timeout 7000 ms
+Sep 12 06:16:43 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2822 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:16:43 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:16:43 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:16:43 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000011d378bb)
+Sep 12 06:16:43 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:16:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:17:14 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000009e627235), outstanding for 30026 ms & timeout 30000 ms
+Sep 12 06:17:14 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2868 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:17:14 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:17:14 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:17:15 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000009e627235)
+Sep 12 06:17:15 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:17:15 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:17:22 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000593366d4), outstanding for 7065 ms & timeout 7000 ms
+Sep 12 06:17:22 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2864 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:17:22 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:17:22 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:17:22 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000593366d4)
+Sep 12 06:17:22 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:17:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:17:59 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000005a99fc13), outstanding for 30493 ms & timeout 30000 ms
+Sep 12 06:17:59 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2817 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:17:59 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:17:59 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:17:59 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000005a99fc13)
+Sep 12 06:17:59 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:00 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:06 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f9d976c), outstanding for 7035 ms & timeout 7000 ms
+Sep 12 06:18:06 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2840 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:18:06 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:18:06 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:18:06 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f9d976c)
+Sep 12 06:18:06 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:07 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:36 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a65f4fc5), outstanding for 30339 ms & timeout 30000 ms
+Sep 12 06:18:36 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2868 CDB: opcode=0x88 88 00 00 00 00 07 65 69 a6 c0 00 00 04 00 00 00
+Sep 12 06:18:36 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:18:36 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a65f4fc5)
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000003540603e), outstanding for 30861 ms & timeout 30000 ms
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2867 CDB: opcode=0x88 88 00 00 00 00 07 65 69 9e c0 00 00 04 00 00 00
+Sep 12 06:18:37 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:18:37 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x000000003540603e) might have completed
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000003540603e)
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:44 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000008ea7493b), outstanding for 7037 ms & timeout 7000 ms
+Sep 12 06:18:44 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2878 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:18:44 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:18:44 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:18:44 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000008ea7493b)
+Sep 12 06:18:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:18:45 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:19:15 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000da10ca8b), outstanding for 30311 ms & timeout 30000 ms
+Sep 12 06:19:15 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2832 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:19:15 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:19:15 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:19:16 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000da10ca8b)
+Sep 12 06:19:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:19:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:19:23 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000007a9d9876), outstanding for 7023 ms & timeout 7000 ms
+Sep 12 06:19:23 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2822 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:19:23 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:19:23 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:19:23 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000007a9d9876)
+Sep 12 06:19:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:19:24 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:19:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d556e8ce), outstanding for 30312 ms & timeout 30000 ms
+Sep 12 06:19:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2843 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:19:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:19:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:19:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d556e8ce)
+Sep 12 06:19:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:19:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:20:02 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000019ad7699), outstanding for 7027 ms & timeout 7000 ms
+Sep 12 06:20:02 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2833 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:20:02 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:20:02 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:20:02 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000019ad7699)
+Sep 12 06:20:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:20:03 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:20:33 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000dbca2090), outstanding for 30292 ms & timeout 30000 ms
+Sep 12 06:20:33 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2838 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:20:33 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:20:33 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:20:33 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000dbca2090)
+Sep 12 06:20:33 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:20:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:20:40 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000000d39da55), outstanding for 7024 ms & timeout 7000 ms
+Sep 12 06:20:40 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2833 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:20:40 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:20:40 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:20:41 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000000d39da55)
+Sep 12 06:20:41 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:20:41 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000005a99fc13), outstanding for 30306 ms & timeout 30000 ms
+Sep 12 06:21:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2831 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:21:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:21:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:21:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000005a99fc13)
+Sep 12 06:21:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:13 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:19 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000000a88859b), outstanding for 7032 ms & timeout 7000 ms
+Sep 12 06:21:19 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2839 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:21:19 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:21:19 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:21:20 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000000a88859b)
+Sep 12 06:21:20 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:20 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:51 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000009c7ef5f4), outstanding for 30304 ms & timeout 30000 ms
+Sep 12 06:21:51 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2824 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:21:51 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:21:51 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:21:51 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000009c7ef5f4)
+Sep 12 06:21:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:52 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:58 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006d78048e), outstanding for 7026 ms & timeout 7000 ms
+Sep 12 06:21:58 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2849 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:21:58 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:21:58 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:21:59 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006d78048e)
+Sep 12 06:21:59 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:21:59 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:22:30 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f4cd0593), outstanding for 30308 ms & timeout 30000 ms
+Sep 12 06:22:30 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2817 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:22:30 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:22:30 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:22:30 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f4cd0593)
+Sep 12 06:22:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:22:31 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:22:37 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000019ad7699), outstanding for 7022 ms & timeout 7000 ms
+Sep 12 06:22:37 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2857 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:22:37 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:22:37 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:22:37 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000019ad7699)
+Sep 12 06:22:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:22:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:09 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000098e5329c), outstanding for 30310 ms & timeout 30000 ms
+Sep 12 06:23:09 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2826 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:23:09 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:23:09 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:23:09 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000098e5329c)
+Sep 12 06:23:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:10 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:16 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000852f8f1f), outstanding for 7037 ms & timeout 7000 ms
+Sep 12 06:23:16 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2880 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:23:16 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:23:16 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:23:16 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000852f8f1f)
+Sep 12 06:23:17 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:17 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:48 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000018560ac), outstanding for 30299 ms & timeout 30000 ms
+Sep 12 06:23:48 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2851 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:23:48 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:23:48 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:23:48 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000018560ac)
+Sep 12 06:23:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:49 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:55 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000009a4bd753), outstanding for 7028 ms & timeout 7000 ms
+Sep 12 06:23:55 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2824 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:23:55 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:23:55 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:23:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000009a4bd753)
+Sep 12 06:23:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:23:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:24:50 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000018560ac), outstanding for 30153 ms & timeout 30000 ms
+Sep 12 06:24:50 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2821 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:24:50 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:24:50 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:24:50 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000018560ac)
+Sep 12 06:24:50 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:24:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:24:57 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000079143b82), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 06:24:57 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2863 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:24:57 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:24:57 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:24:57 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000079143b82)
+Sep 12 06:24:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:24:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:25:29 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000003fd1c26a), outstanding for 30301 ms & timeout 30000 ms
+Sep 12 06:25:29 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2861 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:25:29 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:25:29 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:25:29 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000003fd1c26a)
+Sep 12 06:25:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:25:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:25:36 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ccb75e61), outstanding for 7024 ms & timeout 7000 ms
+Sep 12 06:25:36 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2871 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:25:36 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:25:36 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:25:36 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ccb75e61)
+Sep 12 06:25:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:25:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000039542d12), outstanding for 30312 ms & timeout 30000 ms
+Sep 12 06:26:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2837 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:26:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:26:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:26:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000039542d12)
+Sep 12 06:26:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:15 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000005c520737), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 06:26:15 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2824 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:26:15 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:26:15 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:26:15 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000005c520737)
+Sep 12 06:26:15 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:46 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000067cfbe74), outstanding for 30319 ms & timeout 30000 ms
+Sep 12 06:26:46 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2863 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:26:46 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:26:46 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:26:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000067cfbe74)
+Sep 12 06:26:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ed4de511), outstanding for 7031 ms & timeout 7000 ms
+Sep 12 06:26:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2851 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:26:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:26:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:26:54 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ed4de511)
+Sep 12 06:26:54 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:26:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:27:25 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000004fb7f35b), outstanding for 30303 ms & timeout 30000 ms
+Sep 12 06:27:25 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2862 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:27:25 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:27:25 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:27:26 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000004fb7f35b)
+Sep 12 06:27:26 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:27:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:27:33 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000bc8eebb6), outstanding for 7082 ms & timeout 7000 ms
+Sep 12 06:27:33 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2857 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:27:33 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:27:33 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:27:33 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000bc8eebb6)
+Sep 12 06:27:33 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:27:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:04 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000002e02ab10), outstanding for 30245 ms & timeout 30000 ms
+Sep 12 06:28:04 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2840 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:28:04 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:28:04 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:28:05 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000002e02ab10)
+Sep 12 06:28:05 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:05 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000098e5329c), outstanding for 7019 ms & timeout 7000 ms
+Sep 12 06:28:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2877 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:28:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:28:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:28:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000098e5329c)
+Sep 12 06:28:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:13 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:43 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000da10ca8b), outstanding for 30307 ms & timeout 30000 ms
+Sep 12 06:28:43 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2830 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:28:43 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:28:43 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:28:43 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000da10ca8b)
+Sep 12 06:28:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:50 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006d78048e), outstanding for 7033 ms & timeout 7000 ms
+Sep 12 06:28:50 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2842 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:28:50 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:28:50 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:28:51 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006d78048e)
+Sep 12 06:28:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:28:52 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:29:22 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000018a1c2d2), outstanding for 30306 ms & timeout 30000 ms
+Sep 12 06:29:22 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2854 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:29:22 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:29:22 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:29:22 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000018a1c2d2)
+Sep 12 06:29:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:29:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:29:29 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fca13324), outstanding for 7085 ms & timeout 7000 ms
+Sep 12 06:29:29 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2942 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:29:29 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:29:29 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:29:30 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fca13324)
+Sep 12 06:29:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:29:31 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:01 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c9885b6e), outstanding for 30247 ms & timeout 30000 ms
+Sep 12 06:30:01 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2848 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:30:01 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:30:01 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:30:01 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c9885b6e)
+Sep 12 06:30:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ed4de511), outstanding for 7028 ms & timeout 7000 ms
+Sep 12 06:30:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2837 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:30:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:30:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:30:09 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ed4de511)
+Sep 12 06:30:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:10 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:40 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000000b209ce4), outstanding for 30314 ms & timeout 30000 ms
+Sep 12 06:30:40 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2821 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:30:40 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:30:40 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:30:40 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000000b209ce4)
+Sep 12 06:30:40 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:41 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000018560ac), outstanding for 7024 ms & timeout 7000 ms
+Sep 12 06:30:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2843 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:30:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:30:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:30:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000018560ac)
+Sep 12 06:30:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:30:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:31:19 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a951022e), outstanding for 30303 ms & timeout 30000 ms
+Sep 12 06:31:19 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2844 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:31:19 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:31:19 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:31:19 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a951022e)
+Sep 12 06:31:19 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:31:20 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:31:26 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006d78048e), outstanding for 7026 ms & timeout 7000 ms
+Sep 12 06:31:26 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2837 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:31:26 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:31:26 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:31:26 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006d78048e)
+Sep 12 06:31:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:31:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:31:58 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f9d976c), outstanding for 30320 ms & timeout 30000 ms
+Sep 12 06:31:58 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2860 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:31:58 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:31:58 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:31:58 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f9d976c)
+Sep 12 06:31:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:31:59 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:32:31 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000034fe38b8), outstanding for 30066 ms & timeout 30000 ms
+Sep 12 06:32:31 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2860 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:32:31 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:32:31 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:32:31 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000034fe38b8)
+Sep 12 06:32:31 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:32:32 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:32:38 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000000d39da55), outstanding for 7020 ms & timeout 7000 ms
+Sep 12 06:32:38 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2872 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:32:38 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:32:38 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:32:38 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000000d39da55)
+Sep 12 06:32:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:32:39 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:09 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000067cfbe74), outstanding for 30261 ms & timeout 30000 ms
+Sep 12 06:33:09 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2855 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:33:09 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:33:09 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:33:10 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000067cfbe74)
+Sep 12 06:33:10 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:11 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:17 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a5d87b3a), outstanding for 7023 ms & timeout 7000 ms
+Sep 12 06:33:17 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2859 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:33:17 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:33:17 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:33:17 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a5d87b3a)
+Sep 12 06:33:17 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:18 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:48 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000089e8441b), outstanding for 30300 ms & timeout 30000 ms
+Sep 12 06:33:48 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2839 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:33:48 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:33:48 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:33:49 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000089e8441b)
+Sep 12 06:33:49 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:50 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:56 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f11fe9f3), outstanding for 7032 ms & timeout 7000 ms
+Sep 12 06:33:56 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2842 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:33:56 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:33:56 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:33:56 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f11fe9f3)
+Sep 12 06:33:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:33:57 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:34:27 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000087c5a584), outstanding for 30318 ms & timeout 30000 ms
+Sep 12 06:34:27 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2816 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:34:27 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:34:27 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:34:28 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000087c5a584)
+Sep 12 06:34:28 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:34:28 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:34:35 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000b4e9d0a1), outstanding for 7084 ms & timeout 7000 ms
+Sep 12 06:34:35 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2837 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:34:35 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:34:35 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:34:35 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000b4e9d0a1)
+Sep 12 06:34:35 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:34:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:06 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000001ce4b282), outstanding for 30236 ms & timeout 30000 ms
+Sep 12 06:35:06 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2856 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:35:06 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:35:06 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:35:06 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000001ce4b282)
+Sep 12 06:35:07 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:07 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:13 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000018a1c2d2), outstanding for 7026 ms & timeout 7000 ms
+Sep 12 06:35:13 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2845 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:35:13 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:35:13 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:35:14 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000018a1c2d2)
+Sep 12 06:35:14 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:15 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:45 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000004b11a4f2), outstanding for 30302 ms & timeout 30000 ms
+Sep 12 06:35:45 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2819 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:35:45 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:35:45 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:35:45 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000004b11a4f2)
+Sep 12 06:35:46 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:46 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:52 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000002e02ab10), outstanding for 7026 ms & timeout 7000 ms
+Sep 12 06:35:52 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2836 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:35:52 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:35:52 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:35:53 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000002e02ab10)
+Sep 12 06:35:53 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:35:54 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:36:24 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000001ce4b282), outstanding for 30319 ms & timeout 30000 ms
+Sep 12 06:36:24 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2823 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:36:24 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:36:24 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:36:24 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000001ce4b282)
+Sep 12 06:36:24 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:36:25 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:36:31 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ed4de511), outstanding for 7027 ms & timeout 7000 ms
+Sep 12 06:36:31 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2853 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:36:31 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:36:31 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:36:32 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ed4de511)
+Sep 12 06:36:32 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:36:32 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:37:03 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000cd1ef78f), outstanding for 30306 ms & timeout 30000 ms
+Sep 12 06:37:03 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2832 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:37:03 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:37:03 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:37:03 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000cd1ef78f)
+Sep 12 06:37:03 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:37:04 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:38:35 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000090f4e38b), outstanding for 30111 ms & timeout 30000 ms
+Sep 12 06:38:35 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2849 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:38:35 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:38:35 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:38:35 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000090f4e38b)
+Sep 12 06:38:35 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:38:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:38:42 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000018a1c2d2), outstanding for 7034 ms & timeout 7000 ms
+Sep 12 06:38:42 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2869 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:38:42 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:38:42 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:38:42 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000018a1c2d2)
+Sep 12 06:38:42 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:38:43 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:39:32 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d491fd33), outstanding for 30024 ms & timeout 30000 ms
+Sep 12 06:39:32 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2833 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:39:32 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:39:32 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:39:32 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d491fd33)
+Sep 12 06:39:32 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:39:33 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:39:39 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000005a99fc13), outstanding for 7058 ms & timeout 7000 ms
+Sep 12 06:39:39 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2859 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:39:39 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:39:39 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:39:39 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000005a99fc13)
+Sep 12 06:39:40 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:39:40 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:41:00 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000090f4e38b), outstanding for 30042 ms & timeout 30000 ms
+Sep 12 06:41:00 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2816 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:41:00 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:41:00 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:41:00 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000090f4e38b)
+Sep 12 06:41:00 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:41:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:41:07 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a42fc915), outstanding for 7022 ms & timeout 7000 ms
+Sep 12 06:41:07 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2850 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:41:07 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:41:07 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:41:07 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a42fc915)
+Sep 12 06:41:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:41:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:42:25 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000000ec5282), outstanding for 30030 ms & timeout 30000 ms
+Sep 12 06:42:25 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2820 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:42:25 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:42:25 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:42:25 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000000ec5282)
+Sep 12 06:42:25 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:42:26 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:43:55 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d54d4110), outstanding for 30071 ms & timeout 30000 ms
+Sep 12 06:43:55 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2861 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:43:55 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:43:55 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:43:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d54d4110)
+Sep 12 06:43:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:43:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:44:02 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000067cfbe74), outstanding for 7040 ms & timeout 7000 ms
+Sep 12 06:44:02 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2832 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:44:02 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:44:02 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:44:02 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000067cfbe74)
+Sep 12 06:44:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:44:03 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:45:21 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ad601121), outstanding for 30469 ms & timeout 30000 ms
+Sep 12 06:45:21 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2852 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:45:21 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:45:21 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:45:21 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ad601121)
+Sep 12 06:45:21 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:45:22 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:45:28 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fb82cf54), outstanding for 7040 ms & timeout 7000 ms
+Sep 12 06:45:28 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2837 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:45:28 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:45:28 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:45:28 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fb82cf54)
+Sep 12 06:45:28 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:45:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:45:59 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a42fc915), outstanding for 30309 ms & timeout 30000 ms
+Sep 12 06:45:59 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2837 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:45:59 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:45:59 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:46:00 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a42fc915)
+Sep 12 06:46:00 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:46:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:49:34 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d54d4110), outstanding for 30296 ms & timeout 30000 ms
+Sep 12 06:49:34 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2901 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:49:34 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:49:34 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:49:34 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d54d4110)
+Sep 12 06:49:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:49:35 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:49:45 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f9d976c), outstanding for 7040 ms & timeout 7000 ms
+Sep 12 06:49:45 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2920 CDB: opcode=0x12 12 01 83 00 fe 00
+Sep 12 06:49:45 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:49:45 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:49:45 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f9d976c)
+Sep 12 06:49:45 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:49:46 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:50:52 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000005c520737), outstanding for 30027 ms & timeout 30000 ms
+Sep 12 06:50:52 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2905 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:50:52 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:50:52 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:50:52 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000005c520737)
+Sep 12 06:50:53 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:50:53 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:51:50 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000004b11a4f2), outstanding for 30073 ms & timeout 30000 ms
+Sep 12 06:51:50 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2909 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:51:50 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:51:50 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:51:50 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000004b11a4f2)
+Sep 12 06:51:50 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:51:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:53:36 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000089e8441b), outstanding for 30063 ms & timeout 30000 ms
+Sep 12 06:53:36 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2911 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:53:36 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:53:36 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:53:37 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000089e8441b)
+Sep 12 06:53:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:53:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:53:44 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c9885b6e), outstanding for 7026 ms & timeout 7000 ms
+Sep 12 06:53:44 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2895 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:53:44 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:53:44 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:53:44 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c9885b6e)
+Sep 12 06:53:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:53:45 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000bd4f877f), outstanding for 30042 ms & timeout 30000 ms
+Sep 12 06:56:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2903 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:56:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:56:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:56:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000bd4f877f)
+Sep 12 06:56:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:15 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fca13324), outstanding for 7037 ms & timeout 7000 ms
+Sep 12 06:56:15 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2888 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:56:15 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:56:15 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:56:15 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fca13324)
+Sep 12 06:56:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ccb75e61), outstanding for 30022 ms & timeout 30000 ms
+Sep 12 06:56:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2907 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:56:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:56:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:56:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ccb75e61)
+Sep 12 06:56:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000b4e9d0a1), outstanding for 7043 ms & timeout 7000 ms
+Sep 12 06:56:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2932 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:56:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:56:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:56:54 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000b4e9d0a1)
+Sep 12 06:56:54 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:56:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:58:38 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ddaae9a9), outstanding for 30222 ms & timeout 30000 ms
+Sep 12 06:58:38 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2927 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:58:38 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:58:38 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:58:38 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ddaae9a9)
+Sep 12 06:58:39 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:58:39 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:58:46 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000da10ca8b), outstanding for 7031 ms & timeout 7000 ms
+Sep 12 06:58:46 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2923 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:58:46 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:58:46 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:58:46 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000da10ca8b)
+Sep 12 06:58:46 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:58:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:59:43 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000593366d4), outstanding for 30031 ms & timeout 30000 ms
+Sep 12 06:59:43 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2930 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 06:59:43 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:59:43 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:59:43 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000593366d4)
+Sep 12 06:59:43 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:59:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:59:50 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000004b11a4f2), outstanding for 7037 ms & timeout 7000 ms
+Sep 12 06:59:50 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2904 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 06:59:50 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 06:59:50 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 06:59:50 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000004b11a4f2)
+Sep 12 06:59:50 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 06:59:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:00:21 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000095a297a4), outstanding for 30057 ms & timeout 30000 ms
+Sep 12 07:00:21 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2919 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:00:21 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:00:21 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:00:21 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000095a297a4)
+Sep 12 07:00:22 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:00:22 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:00:29 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d45cd2b9), outstanding for 7033 ms & timeout 7000 ms
+Sep 12 07:00:29 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2886 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:00:29 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:00:29 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:00:29 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d45cd2b9)
+Sep 12 07:00:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:00:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:00 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f4cd0593), outstanding for 30233 ms & timeout 30000 ms
+Sep 12 07:01:00 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2903 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:01:00 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:01:00 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:01:00 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f4cd0593)
+Sep 12 07:01:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:07 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000000c936132), outstanding for 7018 ms & timeout 7000 ms
+Sep 12 07:01:07 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2891 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:01:07 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:01:07 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:01:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000000c936132)
+Sep 12 07:01:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:39 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000039bb79d0), outstanding for 30314 ms & timeout 30000 ms
+Sep 12 07:01:39 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2928 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:01:39 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:01:39 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:01:39 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000039bb79d0)
+Sep 12 07:01:39 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:40 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:46 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000004b11a4f2), outstanding for 7022 ms & timeout 7000 ms
+Sep 12 07:01:46 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2896 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:01:46 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:01:46 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:01:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000004b11a4f2)
+Sep 12 07:01:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:01:47 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:03:57 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000003cbf574b), outstanding for 30026 ms & timeout 30000 ms
+Sep 12 07:03:57 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2901 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:03:57 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:03:57 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:03:57 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000003cbf574b)
+Sep 12 07:03:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:03:58 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:04:11 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006d78048e), outstanding for 7067 ms & timeout 7000 ms
+Sep 12 07:04:11 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2914 CDB: opcode=0x12 12 01 83 00 fe 00
+Sep 12 07:04:11 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:04:11 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:04:11 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006d78048e)
+Sep 12 07:04:11 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:04:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:05:02 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000090f4e38b), outstanding for 30291 ms & timeout 30000 ms
+Sep 12 07:05:02 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2883 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:05:02 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:05:02 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:05:02 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000090f4e38b)
+Sep 12 07:05:02 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:05:03 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:05:09 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000039bb79d0), outstanding for 7037 ms & timeout 7000 ms
+Sep 12 07:05:09 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2891 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:05:09 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:05:09 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:05:09 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000039bb79d0)
+Sep 12 07:05:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:05:10 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:05:55 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fb82cf54), outstanding for 30041 ms & timeout 30000 ms
+Sep 12 07:05:55 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2885 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:05:55 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:05:55 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:05:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fb82cf54)
+Sep 12 07:05:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:05:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:06:27 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000000ec5282), outstanding for 30042 ms & timeout 30000 ms
+Sep 12 07:06:27 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2900 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:06:27 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:06:27 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:06:28 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000000ec5282)
+Sep 12 07:06:28 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:06:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:06:35 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000002c7315fc), outstanding for 7086 ms & timeout 7000 ms
+Sep 12 07:06:35 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2929 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:06:35 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:06:35 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:06:35 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000002c7315fc)
+Sep 12 07:06:35 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:06:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:09:43 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000e959906f), outstanding for 30065 ms & timeout 30000 ms
+Sep 12 07:09:43 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2923 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:09:43 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:09:43 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:09:43 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000e959906f)
+Sep 12 07:09:43 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:09:44 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:09:50 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000001b417aea), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 07:09:50 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2924 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:09:50 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:09:50 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:09:51 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000001b417aea)
+Sep 12 07:09:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:09:51 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:10:22 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000095a297a4), outstanding for 30026 ms & timeout 30000 ms
+Sep 12 07:10:22 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2941 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:10:22 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:10:22 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:10:22 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000095a297a4)
+Sep 12 07:10:22 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:10:23 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:10:29 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000087c5a584), outstanding for 7050 ms & timeout 7000 ms
+Sep 12 07:10:29 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2894 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:10:29 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:10:29 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:10:29 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000087c5a584)
+Sep 12 07:10:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:10:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:11:00 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000005c520737), outstanding for 30053 ms & timeout 30000 ms
+Sep 12 07:11:00 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2939 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:11:00 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:11:00 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:11:01 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000005c520737)
+Sep 12 07:11:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:11:01 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:11:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000089e8441b), outstanding for 7083 ms & timeout 7000 ms
+Sep 12 07:11:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2908 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:11:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:11:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:11:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000089e8441b)
+Sep 12 07:11:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:11:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000008308c528), outstanding for 30514 ms & timeout 30000 ms
+Sep 12 07:12:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2898 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:12:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:12:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:12:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000008308c528)
+Sep 12 07:12:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:16 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000008d2bf5fd), outstanding for 7028 ms & timeout 7000 ms
+Sep 12 07:12:16 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2903 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:12:16 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:12:16 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:12:16 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000008d2bf5fd)
+Sep 12 07:12:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:17 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000089e8441b), outstanding for 30304 ms & timeout 30000 ms
+Sep 12 07:12:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2881 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:12:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:12:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:12:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000089e8441b)
+Sep 12 07:12:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000079143b82), outstanding for 7031 ms & timeout 7000 ms
+Sep 12 07:12:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2890 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:12:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:12:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:12:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000079143b82)
+Sep 12 07:12:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:12:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:13:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000008d2bf5fd), outstanding for 30073 ms & timeout 30000 ms
+Sep 12 07:13:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2884 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:13:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:13:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:13:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000008d2bf5fd)
+Sep 12 07:13:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:13:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:13:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000417de729), outstanding for 7077 ms & timeout 7000 ms
+Sep 12 07:13:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2902 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:13:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:13:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:13:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000417de729)
+Sep 12 07:13:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:13:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:14:26 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000003fd1c26a), outstanding for 30184 ms & timeout 30000 ms
+Sep 12 07:14:26 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2894 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:14:26 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:14:26 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:14:26 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000003fd1c26a)
+Sep 12 07:14:26 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:14:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:14:33 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c32b600a), outstanding for 7029 ms & timeout 7000 ms
+Sep 12 07:14:33 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2890 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:14:33 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:14:33 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:14:34 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c32b600a)
+Sep 12 07:14:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:14:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:15:27 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000cc41014f), outstanding for 30111 ms & timeout 30000 ms
+Sep 12 07:15:27 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2897 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:15:27 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:15:27 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:15:28 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000cc41014f)
+Sep 12 07:15:28 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:15:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:15:35 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000e58b1110), outstanding for 7039 ms & timeout 7000 ms
+Sep 12 07:15:35 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2935 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:15:35 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:15:35 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:15:35 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000e58b1110)
+Sep 12 07:15:35 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:15:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:16:06 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006c8b622b), outstanding for 30295 ms & timeout 30000 ms
+Sep 12 07:16:06 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2922 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:16:06 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:16:06 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:16:07 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006c8b622b)
+Sep 12 07:16:07 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:16:07 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:16:14 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c9885b6e), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 07:16:14 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2929 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:16:14 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:16:14 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:16:14 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c9885b6e)
+Sep 12 07:16:14 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:16:15 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:08 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000039542d12), outstanding for 30406 ms & timeout 30000 ms
+Sep 12 07:17:08 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2943 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:17:08 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:17:08 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:17:09 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000039542d12)
+Sep 12 07:17:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:09 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:16 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000000c936132), outstanding for 7039 ms & timeout 7000 ms
+Sep 12 07:17:16 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2921 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:17:16 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:17:16 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:17:16 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000000c936132)
+Sep 12 07:17:16 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:17 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000008308c528), outstanding for 30297 ms & timeout 30000 ms
+Sep 12 07:17:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2918 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:17:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:17:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:17:47 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000008308c528)
+Sep 12 07:17:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:54 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000dbca2090), outstanding for 7024 ms & timeout 7000 ms
+Sep 12 07:17:54 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2919 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:17:54 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:17:54 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:17:55 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000dbca2090)
+Sep 12 07:17:55 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:17:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:20:47 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000008ea7493b), outstanding for 30401 ms & timeout 30000 ms
+Sep 12 07:20:47 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2902 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:20:47 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:20:47 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:20:48 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000008ea7493b)
+Sep 12 07:20:48 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:20:49 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:26:28 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000049614009), outstanding for 30043 ms & timeout 30000 ms
+Sep 12 07:26:28 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2925 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:26:28 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:26:28 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:26:29 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000049614009)
+Sep 12 07:26:29 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:26:30 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:26:36 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000011988313), outstanding for 7039 ms & timeout 7000 ms
+Sep 12 07:26:36 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2914 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:26:36 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:26:36 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:26:36 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000011988313)
+Sep 12 07:26:36 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:26:37 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:27:07 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f2ec2257), outstanding for 30310 ms & timeout 30000 ms
+Sep 12 07:27:07 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2921 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:27:07 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:27:07 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:27:08 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f2ec2257)
+Sep 12 07:27:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:27:08 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:51:41 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000006f95772b), outstanding for 60470 ms & timeout 60000 ms
+Sep 12 07:51:41 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2894 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:51:41 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:51:41 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:51:41 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000006f95772b)
+Sep 12 07:51:41 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:51:42 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x0000000039542d12), outstanding for 30415 ms & timeout 30000 ms
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2897 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x0000000039542d12)
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000003cbf574b), outstanding for 31009 ms & timeout 30000 ms
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2887 CDB: opcode=0x88 88 00 00 00 00 07 b7 5f 8f 80 00 00 04 00 00 00
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x000000003cbf574b) might have completed
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000003cbf574b)
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000018560ac), outstanding for 30717 ms & timeout 30000 ms
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2886 CDB: opcode=0x88 88 00 00 00 00 07 b7 5f a3 80 00 00 04 00 00 00
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x00000000018560ac) might have completed
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000018560ac)
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ffa4429c), outstanding for 30990 ms & timeout 30000 ms
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2885 CDB: opcode=0x88 88 00 00 00 00 07 b7 5f 93 80 00 00 04 00 00 00
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x00000000ffa4429c) might have completed
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ffa4429c)
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f74dd135), outstanding for 30162 ms & timeout 30000 ms
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2925 CDB: opcode=0x88 88 00 00 00 00 07 b7 61 47 80 00 00 04 00 00 00
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:52:12 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: No reference found at driver, assuming scmd(0x00000000f74dd135) might have completed
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f74dd135)
+Sep 12 07:52:12 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:52:13 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:52:19 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000fdb3671e), outstanding for 7037 ms & timeout 7000 ms
+Sep 12 07:52:19 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2940 CDB: opcode=0x12 12 01 80 00 fe 00
+Sep 12 07:52:19 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:52:19 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:52:19 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000fdb3671e)
+Sep 12 07:52:19 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:52:20 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:53:27 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000a65f4fc5), outstanding for 30243 ms & timeout 30000 ms
+Sep 12 07:53:27 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2924 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:53:27 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:53:27 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:53:27 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000a65f4fc5)
+Sep 12 07:53:27 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:53:28 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:53:34 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x000000001e6a4685), outstanding for 7028 ms & timeout 7000 ms
+Sep 12 07:53:34 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2927 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:53:34 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:53:34 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:53:34 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x000000001e6a4685)
+Sep 12 07:53:34 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:53:35 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:54:38 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000d0fa4592), outstanding for 30050 ms & timeout 30000 ms
+Sep 12 07:54:38 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2895 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:54:38 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:54:38 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:54:38 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000d0fa4592)
+Sep 12 07:54:38 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:54:39 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:54:45 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000bc8eebb6), outstanding for 7025 ms & timeout 7000 ms
+Sep 12 07:54:45 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2902 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:54:45 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:54:45 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:54:45 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000bc8eebb6)
+Sep 12 07:54:46 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:54:46 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:55:17 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000f74dd135), outstanding for 30059 ms & timeout 30000 ms
+Sep 12 07:55:17 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2923 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:55:17 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:55:17 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:55:17 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000f74dd135)
+Sep 12 07:55:17 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:55:18 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:55:24 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000ad601121), outstanding for 7081 ms & timeout 7000 ms
+Sep 12 07:55:24 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2916 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:55:24 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:55:24 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:55:24 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000ad601121)
+Sep 12 07:55:24 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:55:25 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:55:55 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000611590b7), outstanding for 30028 ms & timeout 30000 ms
+Sep 12 07:55:55 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2922 CDB: opcode=0x12 12 00 00 00 24 00
+Sep 12 07:55:55 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:55:55 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:55:56 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000611590b7)
+Sep 12 07:55:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:55:56 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:56:03 REMOTE kernel: sd 1:0:2:0: attempting task abort!scmd(0x00000000c9885b6e), outstanding for 7047 ms & timeout 7000 ms
+Sep 12 07:56:03 REMOTE kernel: sd 1:0:2:0: [sdd] tag#2909 CDB: opcode=0x12 12 00 00 00 fe 00
+Sep 12 07:56:03 REMOTE kernel: scsi target1:0:2: handle(0x000c), sas_address(0x4433221105000000), phy(5)
+Sep 12 07:56:03 REMOTE kernel: scsi target1:0:2: enclosure logical id(0x500605b0054c55f0), slot(2) 
+Sep 12 07:56:03 REMOTE kernel: sd 1:0:2:0: task abort: SUCCESS scmd(0x00000000c9885b6e)
+Sep 12 07:56:03 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 07:56:04 REMOTE kernel: sd 1:0:2:0: Power-on or device reset occurred
+Sep 12 08:19:49 REMOTE webgui: Successful login user root from 192.168.1.60
+Sep 12 08:44:31 REMOTE monitor_nchan: Stop running nchan processes
+Sep 12 10:20:40 REMOTE kernel: md: sync done. time=138537sec
+Sep 12 10:20:40 REMOTE kernel: md: recovery thread: exit status: 0
+Sep 12 17:42:38 REMOTE webgui: Successful login user root from 192.168.1.60
